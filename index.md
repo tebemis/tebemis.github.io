@@ -5,8 +5,8 @@ layout: default
 
 # Hi, I'm Ale
 
-### I'm a maker of things, a Pilot, and a weekend baker
+### I'm a Builder, a Pilot, and a Human
 
-I started this site as a place to aggregate all the things that I learn and the things that I think.
+This is where I collect all the things I learn and think
 
 ![Ale's picture at a silent party](/assets/silent-party.jpeg)

@@ -35,9 +35,15 @@ layout: compress
         {% assign tag_slug = tag | first %}
         {% assign no_of_posts = tag | last | size %}
 
-        <a href="{{ 'tagged/' | relative_url }}{{ tag_slug }}" title="See all posts by {{ tag_slug }} tag">#{{ tag_slug }}</a>
+        <a href="{{ 'tagged/' | relative_url }}{{ tag_slug }}" title="See all posts by {{ tag_slug }} tag">#{{ tag_slug
+            }}</a>
         {% endfor %}
     </small>
+
+    <div class="blog">
+        <p>Follow me on <a href="{{ site.baseurl }}/feed.xml">RSS</a></p>
+        <p>Get in touch at <a href="mailto:ciao@alegnoli.com">ciao@alegnoli.com</a></p>
+    </div>
 
 </main>
 
