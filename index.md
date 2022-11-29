@@ -1,12 +1,10 @@
 ---
 title: Home
-layout: default
+layout: home
 ---
 
 # Hi, I'm Ale
 
-### I'm a Builder, a Pilot, and a Human
+### I'm a Human, a Builder, and a Pilot
 
 This is where I collect all the things I learn and think
-
-![Ale's picture at a silent party](/assets/silent-party.jpeg)
