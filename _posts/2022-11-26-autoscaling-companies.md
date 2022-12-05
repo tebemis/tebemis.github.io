@@ -2,6 +2,7 @@
 layout: post
 title:  "Autoscaling and Alaskan Fishing Boats"
 date: 2022-11-26 20:33:35 -0700
+reading_time: "6 min"
 tags: [business]
 ---
 
