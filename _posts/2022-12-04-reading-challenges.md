@@ -2,7 +2,7 @@
 layout: post
 title:  "New Year's Reading Challenges"
 date: 2022-12-04 13:05:00 -0700
-reading_time: "3 min"
+read_time: "3 min"
 tags: [productivity]
 
 ---
