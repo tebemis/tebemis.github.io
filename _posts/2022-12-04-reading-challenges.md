@@ -17,7 +17,7 @@ Besides the fact that December 4th might be a touch too late to set a reading go
 
 ## The problem with _quantity_ based consumption
 
-First, let's clarify something: reading is a form of content consumption. When we consume content, we typically do so because we want to either gather information, entertainment, or both.
+First, let's clarify something: [reading is a form of content consumption](https://blog.tjcx.me/p/consume-less-create-more). When we consume content, we typically do so because we want to either gather information, entertainment, or both.
 
 Let's focus on information gathering first. If learning something is the goal, then what matters is not how much we consume or how many books we read but _what we can remember and apply_. In other words, the most efficient way of acquiring information is by consuming the _highest quality_ content possible. Reading challenges are useless here because they focus on _quantity_ instead of _quality_.
 
