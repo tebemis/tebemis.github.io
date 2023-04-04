@@ -34,3 +34,5 @@ If you are thinking about doing a reading challenge next year (or setting a cont
 If you are consuming content for entertainment, consider the fact that we tend to [consume way more content](https://www.forbes.com/sites/johnbbrandon/2020/11/17/new-survey-says-were-spending-7-hours-per-day-consuming-online-media/) than we think. A consumption goal might not be necessary. If you want to invest more time reading instead of gaming/watching TV, make sure you phrase your goal precisely. Consider using a time-based instead of a quantity-based approach (e.g. "I will watch one less hour of TV every day and use that hour for reading instead").
 
 [Discuss on Hacker News](https://news.ycombinator.com/item?id=34045887)
+
+<script async data-uid="149d03e686" src="https://alegnoli.ck.page/149d03e686/index.js"></script>
